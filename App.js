@@ -1,6 +1,6 @@
 import React, { useState, useEffect} from 'react';
-import Posts from './components/Posts';
-import Page from './components/Page';
+import Posts from './Posts';
+import Page from './Page';
 import axios from 'axios';
 import './App.css';
 
