@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Pagination-React/static/css/main.110b7eaf.chunk.css",
-    "main.js": "/Pagination-React/static/js/main.4f3e362a.chunk.js",
-    "main.js.map": "/Pagination-React/static/js/main.4f3e362a.chunk.js.map",
-    "runtime-main.js": "/Pagination-React/static/js/runtime-main.45342ada.js",
-    "runtime-main.js.map": "/Pagination-React/static/js/runtime-main.45342ada.js.map",
-    "static/js/2.012a9865.chunk.js": "/Pagination-React/static/js/2.012a9865.chunk.js",
-    "static/js/2.012a9865.chunk.js.map": "/Pagination-React/static/js/2.012a9865.chunk.js.map",
-    "index.html": "/Pagination-React/index.html",
-    "precache-manifest.36d9008a03ade218ac5d15356cc140c2.js": "/Pagination-React/precache-manifest.36d9008a03ade218ac5d15356cc140c2.js",
-    "service-worker.js": "/Pagination-React/service-worker.js",
-    "static/css/main.110b7eaf.chunk.css.map": "/Pagination-React/static/css/main.110b7eaf.chunk.css.map",
-    "static/js/2.012a9865.chunk.js.LICENSE.txt": "/Pagination-React/static/js/2.012a9865.chunk.js.LICENSE.txt"
+    "main.css": "/Pagination_React/static/css/main.110b7eaf.chunk.css",
+    "main.js": "/Pagination_React/static/js/main.84e9fad8.chunk.js",
+    "main.js.map": "/Pagination_React/static/js/main.84e9fad8.chunk.js.map",
+    "runtime-main.js": "/Pagination_React/static/js/runtime-main.12f6228a.js",
+    "runtime-main.js.map": "/Pagination_React/static/js/runtime-main.12f6228a.js.map",
+    "static/js/2.012a9865.chunk.js": "/Pagination_React/static/js/2.012a9865.chunk.js",
+    "static/js/2.012a9865.chunk.js.map": "/Pagination_React/static/js/2.012a9865.chunk.js.map",
+    "index.html": "/Pagination_React/index.html",
+    "precache-manifest.059c3c92dd507c94d778eafa1cd84bf6.js": "/Pagination_React/precache-manifest.059c3c92dd507c94d778eafa1cd84bf6.js",
+    "service-worker.js": "/Pagination_React/service-worker.js",
+    "static/css/main.110b7eaf.chunk.css.map": "/Pagination_React/static/css/main.110b7eaf.chunk.css.map",
+    "static/js/2.012a9865.chunk.js.LICENSE.txt": "/Pagination_React/static/js/2.012a9865.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.45342ada.js",
+    "static/js/runtime-main.12f6228a.js",
     "static/js/2.012a9865.chunk.js",
     "static/css/main.110b7eaf.chunk.css",
-    "static/js/main.4f3e362a.chunk.js"
+    "static/js/main.84e9fad8.chunk.js"
   ]
 }
